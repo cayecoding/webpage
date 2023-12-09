@@ -2,3 +2,4 @@ streamlit
 streamlit_option_menu
 pillow
 plotly
+requests
