@@ -14,11 +14,11 @@ def app():
         return base64.b64encode(data).decode()
 
 
-    img = get_img_as_base64("P1.jpg")
-    img1 = get_img_as_base64("P2.jpg")
-    img2 = get_img_as_base64("P3.jpg")
-    img3 = get_img_as_base64("P4.jpg")
-    img4 = get_img_as_base64("P5.jpg")
+    img = get_img_as_base64("p1.jpg")
+    img1 = get_img_as_base64("p2.jpg")
+    img2 = get_img_as_base64("p3.jpg")
+    img3 = get_img_as_base64("p4.jpg")
+    img4 = get_img_as_base64("p5.jpg")
     img5 = get_img_as_base64("p6.jpg")
     img6 = get_img_as_base64("p7.jpg")
 
